@@ -1,0 +1,22 @@
+## Ignore Visual Studio temporary files, build results, and user-specific files
+
+# Build results
+[Bb]in/
+[Oo]bj/
+
+# Visual Studio cache/options
+.vs/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Debug logs
+*.log
+
+# NuGet Packages (optional, usually restored on build)
+packages/
+*.nupkg
+
+# Visual Studio Code (if you use it later)
+.vscode/
